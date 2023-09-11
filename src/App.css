@@ -15,13 +15,36 @@
 
 .id-card div {
   flex: 1;
-  padding: 10px; /* Agregamos un poco de espacio interno */
-  background-color: white; /* Agregamos un fondo blanco */
+  padding: 10px; 
+  background-color: white; 
 }
 
-/* Estilos para las características */
+
 .id-card p {
   margin: 5px 0;
 }
 
-/* Estilos adicionales según sea necesario */
+
+.Greeting {
+  font-size: 40px;
+  padding: 20px; /* Espaciado interno */
+  margin-top: 30px; /* Espaciado superior */
+  border: 3px solid #0e0d0d;
+  
+}
+
+.Random {
+  font-size: 40px;
+  padding: 20px; /* Espaciado interno */
+  margin-top: 30px; /* Espaciado superior */
+  border: 3px solid #0e0d0d;
+  line-height: 0.1;
+}
+
+.BoxColor {
+  font-size: 30px;
+  padding: 20px; /* Espaciado interno */
+  margin-top: 30px; /* Espaciado superior */
+  
+}
+
